@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analysing the Data Professional Survey.
 
 ## Dashboard Preview
-![Dashboard](Power BI dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Tools Used
 - Power BI
